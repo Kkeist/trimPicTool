@@ -2,7 +2,7 @@ a easy picture trimming tool.
 
 put all the pictures with transparent background into a folder called "img". 
 
-then ru start.bat.
+then run start.bat.
 
 it will trim all the pictures into a new folder called "img_trimmed".
 
