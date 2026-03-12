@@ -1,0 +1,15 @@
+# 用户图片目录（不提交到仓库）
+img/
+img_trimmed/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
